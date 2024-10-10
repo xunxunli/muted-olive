@@ -1,6 +1,6 @@
 {
-	"database-id": "169b6e632b7448529120599281265ac5",
-	"author": "",
+	"database-id": "62950740dcde43079e44026a62560e7f",
+	"author": "xunxunli",
 	"public-ga-tracking-id": "",
 	"google-search-console-html-tag": "",
 	"socials": {
@@ -20,10 +20,10 @@
 	"custom-domain": "",
 	"base-path": "",
 	"giscus": {
-		"data-repo": "nerdymomocat-templates/webtrotion-astro-notion-cms-website-blog",
-		"data-repo-id": "R_kgDOK0FuUA",
+		"data-repo": "xunxunli/muted-olive",
+		"data-repo-id": "R_kgDOM-ajQw",
 		"data-category": "Announcements",
-		"data-category-id": "DIC_kwDOK0FuUM4CbZ5A",
+		"data-category-id": "DIC_kwDOM-ajQ84CjPkJ",
 		"data-mapping": "pathname",
 		"data-input-position": "top",
 		"data-reactions-enabled": true
